@@ -1,23 +1,23 @@
 # lista.m3u
 #EXTMU3
 
-#EXTINF:-1 A&E
+#EXTINF:-1 ,A&E
 
 http://200.41.79.165:8000/play/a05x/index.m3u8
 
-#EXTINF:-2 AXN
+#EXTINF:-2 ,AXN
 
 http://200.41.79.165:8000/play/a04i/index.m3u8
 
-#EXTINF:-3 CINE CANAL
+#EXTINF:-3 ,CINE CANAL
 
 http://200.41.79.165:8000/play/a0io/index.m3u8
 
-#EXTINF:-4 CINEMAX
+#EXTINF:-4 ,CINEMAX
 
 http://200.41.79.165:8000/play/a04g/index.m3u8
 
-#EXTINF:-5 DISCOVERY CHANNEL
+#EXTINF:-5 ,DISCOVERY CHANNEL
 
 http://200.41.79.165:8000/play/a05n/index.m3u8
 
